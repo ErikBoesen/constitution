@@ -2,6 +2,9 @@
 Team 1418 Membership Board
 
 ## Student Information
-Name: __________ Year: _________ GPA (from PowerSchool): _____
-
-Have you committed any academic infractions during high school or in the past two years, whichever is longer? Y / N
+Name: _____________ // Year: (Freshman / Sophomore / Junior / Senior) //
+GPA (from PowerSchool): _____ // Have you committed any academic infractions
+during high school or in the past two years, whichever is longer? Y / N
+If yes, explain: _______________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
