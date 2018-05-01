@@ -1,5 +1,9 @@
-# Team 1418 Application - 2019 Season
-Team 1418 Membership Board
+# Team 1418 Application for the 2019 Season
+All new members and existing members who have been asked to reapply to the team
+must fill out this form to enter our team's application process. Your application
+will be considered by the 1418 Membership Board alongside your meeting attendance
+record and, if applicable, results of subteam assessments (programming quizzes
+etc.).
 
 ## Student Information
 Name: _____________ // Year: (Freshman / Sophomore / Junior / Senior) //
